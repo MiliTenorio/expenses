@@ -1,16 +1,9 @@
 # expenses
 
-A new Flutter project.
+Expenses is an application for monitoring personal spending. You can register your expenses with the title, amount and date of the expense, and the application will list these expenses, as well as report via a graph which days of the last week had the most expenses.
 
-## Getting Started
+## About the project
 
-This project is a starting point for a Flutter application.
+This is another application developed through an introductory Flutter course. In this module we focus on learning how to create, combine and customize widgets in an application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We have the interactions of Create, Read and Delete expenses with 3 attributes: (1) title, (2) value and (3) date. And a graph that relates to the date and amount information.
